@@ -430,4 +430,4 @@ For a description of the error codes and the recommended client action, see [Err
 ## Next steps
 
 - Go over the [MSAL JS samples](sample-v2-code.md) to get started coding.
-- Learn about [token exchange scenarios](scenario-token-exchange-saml-oauth.md).
+- Learn about [token exchange scenarios](scenario-token-exchange-saml-oauth.md)..
